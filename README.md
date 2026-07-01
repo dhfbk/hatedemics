@@ -52,8 +52,7 @@ The repository is organized around the three main types of released resources: a
 │   ├── human_annotated/
 │   └── llm_annotated/
 ├── models/
-│   ├── hate_speech/
-│   └── check_worthiness/
+│   └── hate_speech/
 ├── configs/
 │   ├── datasets/
 │   └── parameters/
