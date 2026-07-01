@@ -61,5 +61,13 @@ The repository is organized around the three main types of released resources: a
 └── README.md
 ```
 
+## Related Resources
+
+This repository is connected to the [MuLTa-Telegram](https://github.com/dhfbk/MuLTa-Telegram) resource, a publicly available Italian and Polish Telegram dataset for hate speech and target detection.
+
+The MuLTa-Telegram dataset is described in the following paper:
+
+- [MuLTa-Telegram: A Fine-Grained Italian and Polish Dataset for Hate Speech and Target Detection](https://aclanthology.org/2025.clicit-1.56.pdf)
+
 # Acknowledgements
 This work was supported by the European Union’s CERV fund under Grant Agreement No. 101143249 (HATEDEMICS)
