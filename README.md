@@ -27,7 +27,7 @@ Models and annotations for identifying hate speech in online content.
 ## Models
 
 The released models were developed using [MaChAmp](https://github.com/machamp-nlp/machamp). 
-We provide final models for hate speech and check-worthiness detection in English, Spanish, Polish, and Italian.
+We provide final models for hate speech detection in English, Spanish, Polish, and Italian.
 
 The released models are fine-tuned versions of existing pre-trained models. Each model was fine-tuned on the corresponding annotated data released in the `data/` directory. The MaChAmp configuration files used for training are provided in the `configs/` directory.
 ### Released Models
