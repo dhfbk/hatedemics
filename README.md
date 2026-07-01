@@ -23,10 +23,6 @@ The repository currently includes resources for:
 
 Models and annotations for identifying hate speech in online content.
 
-### Check-Worthiness Detection
-
-Models and annotations for identifying claims or messages that may be relevant for fact-checking.
-
 
 ## Models
 
