@@ -68,3 +68,6 @@ The repository is organized around the three main types of released resources: a
 ├── docs/
 └── README.md
 ```
+
+# Acknowledgements
+This work was supported by the European Union’s CERV fund under Grant Agreement No. 101143249 (HATEDEMICS)
