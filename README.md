@@ -1,10 +1,9 @@
 # HATEDEMICS Models and Data
-This repository contains resources developed within the [HATEDEMICS project](https://hatedemics.eu/), including models and annotated datasets for hate speech and check-worthiness detection in English, Spanish, Polish, and Italian.
+This repository contains resources developed within the [HATEDEMICS project](https://hatedemics.eu/), including models and annotated datasets for hate speech detection in English, Spanish, Polish, and Italian.
 
 ## Contents
 
 - Final versions of hate speech detection models
-- Final versions of check-worthiness detection models
 - Human-annotated datasets
 - LLM-annotated datasets
 - Documentation on labels, data format, and model usage
@@ -43,10 +42,7 @@ The released models are fine-tuned versions of existing pre-trained models. Each
 | Hate speech  | Polish | `ptaszynski/bert-base-polish-cyberbullying` | Human-annotated Polish Telegram data |
 | Hate speech  | English | `facebook/roberta-hate-speech-dynabench-r4-target` | LLM-annotated English Telegram data |
 | Hate speech  | Spanish | `dccuchile/bert-base-spanish-wwm-uncased` | LLM-annotated Spanish Telegram data |
-| Check-worthiness  | Italian | `Musixmatch/umberto-commoncrawl-cased-v1` | Human-annotated Italian Telegram data |
-| Check-worthiness  | Polish | `[base model to be specified]` | Human-annotated Polish Telegram data |
-| Check-worthiness  | English | `xlm-roberta-large` | Italian/Polish in-domain Telegram data and English/Spanish out-of-domain data |
-| Check-worthiness | Spanish | `xlm-roberta-large` | Italian/Polish in-domain Telegram data and English/Spanish out-of-domain data |
+
 
 
 
