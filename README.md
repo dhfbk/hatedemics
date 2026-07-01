@@ -39,14 +39,14 @@ The released models are fine-tuned versions of existing pre-trained models. Each
 
 | Task | Language | Base model | Training data |
 |---|---|---|---|
-| Hate speech detection | Italian | `MilaNLProc/hate-ita` | Human-annotated Italian Telegram data |
-| Hate speech detection | Polish | `ptaszynski/bert-base-polish-cyberbullying` | Human-annotated Polish Telegram data |
-| Hate speech detection | English | `facebook/roberta-hate-speech-dynabench-r4-target` | LLM-annotated English Telegram data |
-| Hate speech detection | Spanish | `dccuchile/bert-base-spanish-wwm-uncased` | LLM-annotated Spanish Telegram data |
-| Check-worthiness detection | Italian | `Musixmatch/umberto-commoncrawl-cased-v1` | Human-annotated Italian Telegram data |
-| Check-worthiness detection | Polish | `[base model to be specified]` | Human-annotated Polish Telegram data |
-| Check-worthiness detection | English | `xlm-roberta-large` | Italian/Polish in-domain Telegram data and English/Spanish out-of-domain data |
-| Check-worthiness detection | Spanish | `xlm-roberta-large` | Italian/Polish in-domain Telegram data and English/Spanish out-of-domain data |
+| Hate speech  | Italian | `MilaNLProc/hate-ita` | Human-annotated Italian Telegram data |
+| Hate speech  | Polish | `ptaszynski/bert-base-polish-cyberbullying` | Human-annotated Polish Telegram data |
+| Hate speech  | English | `facebook/roberta-hate-speech-dynabench-r4-target` | LLM-annotated English Telegram data |
+| Hate speech  | Spanish | `dccuchile/bert-base-spanish-wwm-uncased` | LLM-annotated Spanish Telegram data |
+| Check-worthiness  | Italian | `Musixmatch/umberto-commoncrawl-cased-v1` | Human-annotated Italian Telegram data |
+| Check-worthiness  | Polish | `[base model to be specified]` | Human-annotated Polish Telegram data |
+| Check-worthiness  | English | `xlm-roberta-large` | Italian/Polish in-domain Telegram data and English/Spanish out-of-domain data |
+| Check-worthiness | Spanish | `xlm-roberta-large` | Italian/Polish in-domain Telegram data and English/Spanish out-of-domain data |
 
 
 
